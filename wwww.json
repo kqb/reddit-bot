@@ -1,0 +1,7 @@
+{
+    "access_token": "4/1AX4XfWhKlRhQCuCOeWmQQPP35WKEmleaAEaUvRlgzFyy_0IWhpbI6d-kYQo",
+    "refresh_token": "4/1AX4XfWhKlRhQCuCOeWmQQPP35WKEmleaAEaUvRlgzFyy_0IWhpbI6d-kYQo",
+    "scope": "https://www.googleapis.com/auth/gmail.readonly",
+    "token_type": "Bearer",
+    "expiry_date": 1599949151332
+}
